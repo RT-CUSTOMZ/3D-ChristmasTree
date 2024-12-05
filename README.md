@@ -14,7 +14,7 @@ Lastely connect the brain PCB to the tree assembly
 
 As of end 2024 the WLED software is marked experimental for ESP32-S3 chipset, therefore install WLED via 
 https://wled-install.github.io/
-and select an ESP32-S3 version.
+and select an ESP32-S3 version (4 MB Flash).
 
 After installation open WLED controls and load Presets and Configuration from Backup Files
 
