@@ -11,3 +11,9 @@ Check LED function before assambling the tree
 Slide the two tree PCBs into each other and use symbols on PCBs to ensure correct orientation
 Afterwards use the same symbols as solder joints to give the tree more stability
 Lastely connect the brain PCB to the tree assembly
+
+As of end 2024 the WLED software is marked experimental for ESP32-S3 chipset, therefore install WLED via 
+https://wled-install.github.io/
+and select an ESP32-S3 version.
+
+After installation open WLED controls and load Presets and Configuration from Backup Files
