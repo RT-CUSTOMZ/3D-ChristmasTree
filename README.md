@@ -17,3 +17,6 @@ https://wled-install.github.io/
 and select an ESP32-S3 version.
 
 After installation open WLED controls and load Presets and Configuration from Backup Files
+
+Short button press - On / Off
+Long button press - Toggle presets
