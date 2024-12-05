@@ -1,0 +1,28 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,8.0.6*
+G04 #@! TF.CreationDate,2024-11-23T11:54:57+01:00*
+G04 #@! TF.ProjectId,ChristmasTreeBrain,43687269-7374-46d6-9173-547265654272,rev?*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Profile,NP*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.6) date 2024-11-23 11:54:57*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 #@! TA.AperFunction,Profile*
+%ADD10C,0.050000*%
+G04 #@! TD*
+G04 APERTURE END LIST*
+D10*
+X222465000Y-59210000D02*
+G75*
+G02*
+X177665000Y-59210000I-22400000J0D01*
+G01*
+X177665000Y-59210000D02*
+G75*
+G02*
+X222465000Y-59210000I22400000J0D01*
+G01*
+M02*
